@@ -16,7 +16,7 @@ Try It
 Install
 ---
 
-`npm install`
+`npm install` OR download included files
 
 
 
